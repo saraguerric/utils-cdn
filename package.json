@@ -1,0 +1,24 @@
+{
+  "name": "Atelier-Debutant-DATA-Total",
+  "version": "1.0.0",
+  "description": "https://docs.google.com/document/d/1ZqEk8-66ZEkVqWXfyVWp9aiRU3-x9zLKw8_yuor1NkA",
+  "main": "index.js",
+  "engines": {
+    "node": "6.9.5",
+    "npm": "3.10.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saraguerric/utils-cdn.git"
+  },
+  "keywords": [],
+  "author": "sara guerric",
+  "license": "ISC",
+  "homepage": "https://github.com/saraguerric/utils-cdn#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
