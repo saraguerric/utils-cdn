@@ -1,8 +1,8 @@
 {
-  "name": "Atelier-Debutant-DATA-Total",
+  "name": "utils-cdn",
   "version": "1.0.0",
-  "description": "https://docs.google.com/document/d/1ZqEk8-66ZEkVqWXfyVWp9aiRU3-x9zLKw8_yuor1NkA",
-  "main": "index.js",
+  "description": "Server de contenu",
+  "main": "server.js",
   "engines": {
     "node": "6.9.5",
     "npm": "3.10.10"
